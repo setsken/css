@@ -1,9 +1,8 @@
-H1 {
-  color: #000080;
-  font-size: 400%;
-  font-family: Arial, Verdana, sans-serif;
-  text-align: center;
-}
-P {
-  padding-left: 40px;
+@import "/style/print.css";
+@import "/style/palm.css"; 
+BODY {
+ font-family: Arial, Verdana, Helvetica, sans-serif;
+ font-size: 90%;
+ background: white;
+ color: black;
 }
